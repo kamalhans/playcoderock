@@ -1,1 +1,10 @@
 List the files : ls
+mkdir
+cd
+ls > output.txt
+cat output.txt
+echo "This is a test"
+mv combined.txt dir1
+cp dir4/dir5/dir6/combined.txt 
+rm dir4/dir5/dir6/combined.txt combined_backup.txt
+rmdir folder_*
